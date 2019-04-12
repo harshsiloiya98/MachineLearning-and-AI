@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/5280799/list-append-changing-all-elements-to-the-appended-item
+https://stackoverflow.com/questions/22257249/how-do-i-reverse-a-sublist-in-a-list-in-place
+https://en.wikipedia.org/wiki/2-opt
+http://aima.cs.berkeley.edu/algorithms.pdf
+https://en.wikipedia.org/wiki/3-opt
+https://en.wikipedia.org/wiki/Tree_traversal#Pre-order

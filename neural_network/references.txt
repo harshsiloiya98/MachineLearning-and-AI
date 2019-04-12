@@ -1,0 +1,9 @@
+https://stats.stackexchange.com/questions/212965/how-to-achieve-a-nonlinear-decision-boundary
+https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/
+https://stackoverflow.com/questions/36628181/backpropagation-in-convolutional-neural-networks
+https://www.coursera.org/learn/neural-networks-deep-learning/home/week/4
+https://www.coursera.org/learn/convolutional-neural-networks/home/week/1
+http://cs231n.github.io/optimization-2/
+https://docs.scipy.org/doc/numpy/reference/index.html
+Artificial Intelligence, A Modern Approach - Norvig, Russell (Learning from Examples - Artificial Neural Networks)

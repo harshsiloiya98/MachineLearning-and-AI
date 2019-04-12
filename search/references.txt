@@ -1,0 +1,4 @@
+http://norvig.com/sudoku.html
+https://networkx.github.io/documentation/stable/tutorial.html#accessing-edges-and-neighbors
+https://inst.eecs.berkeley.edu/~cs188/sp19/assets/slides/lecture3.pdf
+https://www.csd.uoc.gr/~hy583/papers/ch11.pdf

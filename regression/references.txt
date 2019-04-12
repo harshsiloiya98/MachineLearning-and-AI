@@ -1,0 +1,12 @@
+https://www.coursera.org/learn/machine-learning/supplement/aEN5G/gradient-descent-for-multiple-variables
+https://www.cs.cmu.edu/~mgormley/courses/10701-f16/slides/lecture4.pdf
+https://www.kaggle.com/residentmario/ridge-regression-cost-function
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+https://math.stackexchange.com/questions/883016/gradient-of-l2-norm-squared/883024
+https://stackoverflow.com/questions/13942794/how-to-flatten-a-numpy-array-of-dtype-object
+http://www.princeton.edu/~yc5/publications/random_init_PR.pdf
+https://machinelearningmastery.com/k-fold-cross-validation/
+https://stackoverflow.com/questions/27516849/how-to-convert-list-of-numpy-arrays-into-single-numpy-array
+http://statweb.stanford.edu/~tibs/sta306bfiles/cvwrong.pdf
+https://courses.cs.washington.edu/courses/cse446/17wi/slides/lasso.pdf
+http://www.stat.cmu.edu/~ryantibs/convexopt-F13/lectures/24-coord-desc.pdf
