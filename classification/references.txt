@@ -1,0 +1,4 @@
+https://inst.eecs.berkeley.edu/~cs188/sp12/slides/cs188%20lecture%2021%20--%20perceptron%206PP.pdf
+http://www.aishack.in/tutorials/canny-edge-detector/
+http://www.aishack.in/tutorials/sobel-laplacian-edge-detectors/
+https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.gradient.html

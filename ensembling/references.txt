@@ -1,0 +1,2 @@
+https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.choice.html
+AI A Modern Approach - Ensemble learning (chapter 18)

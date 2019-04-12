@@ -1,0 +1,11 @@
+http://book.pythontips.com/en/latest/map_filter.html
+https://stackoverflow.com/questions/16940293/why-is-there-no-tuple-comprehension-in-python
+https://stackoverflow.com/questions/3223043/how-do-i-sum-the-columns-in-2d-list
+http://www.cs.uky.edu/~jzhang/CS689/PPDM-Chapter3.pdf
+http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf
+https://en.wikipedia.org/wiki/Geometric_median
+https://stackoverflow.com/questions/4511331/randomly-selecting-an-element-from-a-weighted-list
+https://en.wikipedia.org/wiki/Netpbm_format
+https://stackoverflow.com/questions/1035340/reading-binary-file-and-looping-over-each-byte/1035360#1035360
+https://www.geeksforgeeks.org/ord-function-python/
+https://en.wikipedia.org/wiki/Row-_and_column-major_order
